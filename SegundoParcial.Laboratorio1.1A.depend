@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1656509051 source:c:\users\agustina bilotta\desktop\segundoparcial.laboratorio1.1a\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"movie.h"
+	"parser.h"
+	"controller.h"
+	<time.h>
+
+1656207361 c:\users\agustina bilotta\desktop\segundoparcial.laboratorio1.1a\linkedlist.h
+
+1656506515 c:\users\agustina bilotta\desktop\segundoparcial.laboratorio1.1a\movie.h
+
+1656080719 c:\users\agustina bilotta\desktop\segundoparcial.laboratorio1.1a\parser.h
+
+1656509071 c:\users\agustina bilotta\desktop\segundoparcial.laboratorio1.1a\controller.h
+	"movie.h"
+	"LinkedList.h"
+
+1656509389 source:c:\users\agustina bilotta\desktop\segundoparcial.laboratorio1.1a\main.c
+	<stdio.h>
+	<stdlib.h>
+	"controller.h"
+	"movie.h"
+	"LinkedList.h"
+
+1656507362 source:c:\users\agustina bilotta\desktop\segundoparcial.laboratorio1.1a\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"movie.h"
+	"parser.h"
+
+1656212383 source:c:\users\agustina bilotta\desktop\segundoparcial.laboratorio1.1a\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1656507398 source:c:\users\agustina bilotta\desktop\segundoparcial.laboratorio1.1a\movie.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	"movie.h"
+
